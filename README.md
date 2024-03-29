@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @andreas1271
-- 👀 I’m interested in Computer Networks (WAN/LAN/WLAN), Firewalls, Python, Web Development.
+- 👀 I’m interested in Networks (WAN/LAN/WLAN), Firewalls, Python, Web Development.
 - 🌱 I’m currently learning Java Full Stack Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
